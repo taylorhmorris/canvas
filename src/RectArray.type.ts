@@ -1,5 +1,6 @@
 /**
- * An array which represents a Rect
+ * An array which represents a Rect.
+ *
  * Elements should be in the following order:
  *
  * x, y, width, height
